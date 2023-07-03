@@ -1,0 +1,20 @@
+
+				{
+					"title": "Fake Workona Workspace",
+					"color": "teal",
+					"resources": [
+						{
+							"title": "Resources",
+							"resources": [
+								{
+									"title": "Next.js",
+									"url": "https://nextjs.org/"
+								},
+								{
+									"title": "Tailwind.css",
+									"url": "https://tailwindcss.com"
+								}
+							]
+                                                }
+                                            ]
+				}

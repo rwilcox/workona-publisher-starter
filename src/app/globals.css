@@ -17,11 +17,27 @@
 }
 
 body {
-  color: rgb(var(--foreground-rgb));
+  /*color: rgb(var(--foreground-rgb));
   background: linear-gradient(
       to bottom,
       transparent,
       rgb(var(--background-end-rgb))
     )
     rgb(var(--background-start-rgb));
+*/
+}
+
+h1 {
+    font-size: 150%;
+    font-variant: small-caps;
+    font-weight: bold;
+}
+
+code {
+    background-color: white;
+    font-family: "Courier New"
+}
+
+div.renderedMarkdownInside p {
+    font-family: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
 }
